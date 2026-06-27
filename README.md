@@ -27,9 +27,6 @@ By leveraging **Resemblyzer** (based on Generalized End-to-End Loss for Speaker 
 
 ## ⚙️ Pipeline Architecture
 
-```text
-Created README-v2.md
-
 ```mermaid
 graph TD;
     A[Raw Audio File] --> B[Audio Preprocessing & Framing];
@@ -43,10 +40,7 @@ graph TD;
     G --> I;
     H --> I;
     I --> J[Speaker Segments: Speaker, t_start, t_end];
-
 ```
-
----
 
 ## 🧠 Clustering Algorithms: A Deep Dive
 
