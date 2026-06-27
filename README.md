@@ -1,5 +1,3 @@
-readme_content = """<div align="center">
-  
 # 🎙️ Speaker Diarization & Voice Recognition Pipeline
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -7,10 +5,6 @@ readme_content = """<div align="center">
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 > *"Who spoke when?"* — An advanced comparative framework for audio segmentation using Deep Learning embeddings and Unsupervised Clustering.
-
-</div>
-
----
 
 ## 📖 Overview
 
@@ -32,9 +26,6 @@ By leveraging **Resemblyzer** (based on Generalized End-to-End Loss for Speaker 
 ---
 
 ## ⚙️ Pipeline Architecture
-
-
-```
 
 ```text
 Created README-v2.md
