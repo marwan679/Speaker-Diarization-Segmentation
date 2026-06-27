@@ -1,4 +1,3 @@
-```python
 readme_content = """<div align="center">
   
 # 🎙️ Speaker Diarization & Voice Recognition Pipeline
