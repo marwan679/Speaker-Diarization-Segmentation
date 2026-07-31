@@ -155,5 +155,3 @@ Feel free to check the [issues page](https://www.google.com/search?q=https://git
 * [HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan) for density-based clustering.
 * [SpectralClusterer](https://github.com/wq2012/SpectralCluster) by Quan Wang.
 any further refinements!
-
-```
